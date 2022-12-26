@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prateek</h1>
 💫 About Me:
-🔭 I’m currently working on React.JS.<br>👯 Hit me up for any collab on React.<br>🌱 I’m currently learning Node.JS, DSA & many more things.<br>💬 Ask me about Front-End.<br>⚡ Fun fact: I'm the most un-nerdy nerd.
+🔭 I’m currently working on React.JS.<br>👯 Hit me up for any collab on React.<br>🌱 I’m currently learning Node.JS, DSA & many more things.<br>💬 Ask me about Front-End.<br>⚡ Fun fact: I'm the most un-nerdy nerd you'll ever meet.
 <img align = "right" alt="Coding" width = "400" src = "https://i.chzbgr.com/full/6561753344/h79F00B5E/nerd-power">
 
 ## 🌐 Socials:
